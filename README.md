@@ -30,6 +30,6 @@ Here are a few notable projects I have worked on:
 
 ✨ Looking forward to working together on innovative projects and pushing the boundaries of machine learning!
 
----
+##
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fteexone%2Fteexone%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fteexone%2Fteexone%2F&labelColor=%23ff8a65&countColor=%23555555"/></a>
 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fteexone%2Fteexone%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fteexone%2Fteexone%2F&labelColor=%23ff8a65&countColor=%23555555" /></a>
