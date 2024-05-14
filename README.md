@@ -20,7 +20,7 @@ Here are notable **open-source** projects I have worked on:
 
 1. **Malevich**: Developed a number of Python packages for interacting with a platform for building AI-driven products. [Link](https://github.com/MalevichAI/)
 
-2. **See-and-Tell**: Designed and developen a service that helps visually impaired people experience visual content by embedding audial descriptions. [Link](https://github.com/teexone/see-and-tell)
+2. **See-and-Tell**: Designed and developed a service that helps visually impaired people experience visual content by embedding audial descriptions. [Link](https://github.com/teexone/see-and-tell)
 
 3. **xRoad**: Contributed to a traffic supervision system by training and deploying an object detection model and incorporating an occlusion-aware tracking system. 
 
